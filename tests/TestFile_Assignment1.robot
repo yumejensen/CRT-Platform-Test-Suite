@@ -1,7 +1,6 @@
 *** Settings ***
 
 Documentation           Assignment 1: Use the example Webshop
-# You can change imported library to "QWeb" if testing generic web application, not Salesforce.
 Library                 QWeb 
 
 *** Test Cases ***
