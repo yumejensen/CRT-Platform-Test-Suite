@@ -15,3 +15,6 @@ Add one Gerald the Giraffe T shirt to the shopping cart
 Verify that the total of the shopping basket is $9.00
     VerifyText    Cart summary    timeout=10s
     VerifyText    $9.00    anchor=Total    timeout=10s
+
+*** Comments ***
+hi
